@@ -4,7 +4,7 @@
 
 ## Recommended Textbooks
 
-- 《数据结构与算法: C语言描述》
+- 《数据结构与算法: C 语言描述》
 - 《Operating System: Three Easy Pieces》
 - 《CSAPP》
 - 《计算机组成与设计硬件：软件接口》
@@ -15,16 +15,16 @@
 ## Programming Language
 ### C#
 
-- 教学入门视频：C#入门详解：[https://www.bilibili.com/video/av1422127/?p=2](https://www.bilibili.com/video/av1422127/?p=2)
+- 教学入门视频：C# 入门详解：[https://www.bilibili.com/video/av1422127/?p=2](https://www.bilibili.com/video/av1422127/?p=2)
   - 推荐书目：
-    - 《C#本质论（我也不知道出道第几版了）》
+    - 《C# 7.0 本质论》
 
 ### JAVA
 
 - 自学网站：How2J：how2j.cn
   - 推荐书目：
-    - 《Java编程思想》
-    - 《深入了解Java虚拟机》
+    - 《Java 编程思想》
+    - 《深入了解 Java 虚拟机》
     - 《Effective Java》
 
 ### C
