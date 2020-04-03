@@ -1,37 +1,92 @@
-## Welcome to GitHub Pages
+## Recommended Textbooks
 
-You can use the [editor on GitHub](https://github.com/DipperLaboratory/Navigation_station/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- 《数据结构与算法: C语言描述》
+- 《Operating System: Three Easy Pieces》
+- 《CSAPP》
+- 《计算机组成与设计硬件：软件接口》
+- 《计算机网络 -- 自顶向下方法》
+  - 未完待续
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Programming Language
+### C#
 
-### Markdown
+- 教学入门视频：C#入门详解：https://www.bilibili.com/video/av1422127/?p=2
+  - 推荐书目：
+    - 《C#本质论（我也不知道出道第几版了）》
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### JAVA
 
-```markdown
-Syntax highlighted code block
+- 自学网站：How2J：how2j.cn
+  - 推荐书目：
+    - 《Java编程思想》
+    - 《深入了解Java虚拟机》
+    - 《Effective Java》
 
-# Header 1
-## Header 2
-### Header 3
+### C
 
-- Bulleted
-- List
+- 推荐书目：
+  - 《C Primer Plus》
+  - 《C 专家编程》
+  - 《C 指针与陷阱》
 
-1. Numbered
-2. List
+## Algorithm
 
-**Bold** and _Italic_ and `Code` text
+- Books
+  - 《算法（第四版）》（Java语言描述）
+    - 在线网址：https://algs4.cs.princeton.edu/home/
+    - 配套视频：From Coursera
+  - 《算法（第四版）》
+  - 《数据结构与算法分析（C语言描述）》
+  - 《编程珠玑》
+  - 《算法导论》
 
-[Link](url) and ![Image](src)
-```
+- Website：
+  - VisuAlgo - 数据结构和和算法可视化：https://visualgo.net/zh
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Comprehensive website
 
-### Jekyll Themes
+- 易百教程：https://www.yiibai.com/
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DipperLaboratory/Navigation_station/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- 奇客谷教程：https://www.qikegu.com/
 
-### Support or Contact
+- 搜云库团队（JAVA）：https://tech.souyunku.com/
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- GeekforGreeks：https://www.geeksforgeeks.org/
+
+## MOOC
+
+- Coursera：https://www.coursera.org/
+
+- 中国大学MOOC：https://www.icourse163.org/
+
+## PDF
+
+- 鸠摩搜书：https://www.jiumodiary.com/
+
+- Forfrigg：http://cache9.pinboard.in/williamwoo/321bfa6009b27416727f/#gsc.tab=0
+
+- 书伴图书：https://bookfere.com/search
+
+## Google
+
+- Google Design：https://design.google/
+
+- Google Developer：https://developers.google.cn/
+
+## Front-end
+
+- 导航页：
+  - F2EX-前端导航页：http://hao.f2ex.cn/
+
+- 配色方案：
+  - Palettes：https://flatuicolors.com/
+  - Material Design Color Palette Generator：https://www.materialpalette.com/
+
+- Icons
+  - Ionicons：https://ionicons.com/
+  - Free vector icons：https://www.flaticon.com/
+  - IcoMoon App：https://icomoon.io/app/#/select
+  - Icons 8：https://icons8.com/
+
+- Font
+  - Cufon Fonts：https://www.cufonfonts.com/
