@@ -12,20 +12,34 @@
 - 《数据库系统概念》
   - 未完待续（大部分为机械工业出版社）
 
+## Database
+
+- Relational database
+  - MySQL
+    - 《必知必会 MySQL》
+    - 《高性能 MySQL》
+  - PostgreSQL
+- NoSQL
+  - Redis
+    - 《Redis 设计与实现》
+  - MongoDB
+
 ## Programming Language
 ### C#
 
-- 教学入门视频：C#入门详解：[https://www.bilibili.com/video/av1422127/?p=2](https://www.bilibili.com/video/av1422127/?p=2)
-  - 推荐书目：
-    - 《C#本质论（我也不知道出道第几版了）》
+- 教学入门视频：
+  - C#入门详解：[https://www.bilibili.com/video/av1422127/?p=2](https://www.bilibili.com/video/av1422127/?p=2)
+- 推荐书目：
+  - 《C# 7.0 本质论》
 
 ### JAVA
 
-- 自学网站：How2J：how2j.cn
-  - 推荐书目：
-    - 《Java编程思想》
-    - 《深入了解Java虚拟机》
-    - 《Effective Java》
+- 自学网站：
+  - How2J：[how2j.cn](https://how2j.cn/)
+- 推荐书目：
+  - 《Java 编程思想》
+  - 《深入了解 Java 虚拟机》
+  - 《 Effective Java 》
 
 ### C
 
@@ -39,12 +53,10 @@
 - Books
   - 《算法（第四版）》（Java语言描述）
     - 在线网址：[https://algs4.cs.princeton.edu/home/](https://algs4.cs.princeton.edu/home/)
-    - 配套视频：To Coursera
-  - 《算法（第四版）》
+    - 配套视频：To Coursera : [https://www.coursera.org/learn/algorithms-part1](https://www.coursera.org/learn/algorithms-part1)
   - 《数据结构与算法分析（C语言描述）》
   - 《编程珠玑》
   - 《算法导论》
-
 - Website：
   - VisuAlgo - 数据结构和和算法可视化：[https://visualgo.net/zh](https://visualgo.net/zh)
 
