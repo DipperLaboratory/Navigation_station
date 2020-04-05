@@ -4,6 +4,8 @@
 
 ## Recommended Textbooks
 
+### Basic knowledge
+
 - 《数据结构与算法: C语言描述》
 - 《Operating System: Three Easy Pieces》
 - 《CSAPP》
@@ -12,28 +14,16 @@
 - 《数据库系统概念》
   - 未完待续（大部分为机械工业出版社）
 
-## Database
+### Programming Language
 
-- Relational database
-  - MySQL
-    - 《必知必会 MySQL》
-    - 《高性能 MySQL》
-  - PostgreSQL
-- NoSQL
-  - Redis
-    - 《Redis 设计与实现》
-  - MongoDB
-
-## Programming Language
-
-### C#
+#### C#
 
 - 教学入门视频：
   - C#入门详解：[https://www.bilibili.com/video/av1422127/?p=2](https://www.bilibili.com/video/av1422127/?p=2)
 - 推荐书目：
   - 《C# 7.0 本质论》
 
-### JAVA
+#### JAVA
 
 - 自学网站：
   - How2J：[how2j.cn](https://how2j.cn/)
@@ -42,14 +32,14 @@
   - 《深入了解 Java 虚拟机》
   - 《 Effective Java 》
 
-### C
+#### C
 
 - 推荐书目：
   - 《C Primer Plus》
   - 《C 专家编程》
   - 《C 指针与陷阱》
 
-## Algorithm
+### Algorithm
 
 - Books
   - 《算法（第四版）》（Java语言描述）
@@ -61,37 +51,52 @@
 - Website：
   - VisuAlgo - 数据结构和和算法可视化：[https://visualgo.net/zh](https://visualgo.net/zh)
 
+### Database
+
+- Relational database
+  - MySQL
+    - 《必知必会 MySQL》
+    - 《高性能 MySQL》
+  - PostgreSQL
+- NoSQL
+  - Redis
+    - 《Redis 设计与实现》
+  - MongoDB
+
+## Skills websites
+
+- SQL: [https://sqlbolt.com/](https://sqlbolt.com/)
+- Regex: [https://regexone.com/](https://regexone.com/)
+
 ## Comprehensive website
 
-- 易百教程：[https://www.yiibai.com/](https://www.yiibai.com/)
-
-- 奇客谷教程：[https://www.qikegu.com/](https://www.qikegu.com/)
-
-- 搜云库团队（JAVA）：[https://tech.souyunku.com/](https://tech.souyunku.com/)
+- **IBM Developer**: [https://www.ibm.com/developerworks/cn/](https://www.ibm.com/developerworks/cn/)
 
 - GeekforGreeks：[https://www.geeksforgeeks.org/](https://www.geeksforgeeks.org/)
+- 易百教程：[https://www.yiibai.com/](https://www.yiibai.com/)
+- 奇客谷教程：[https://www.qikegu.com/](https://www.qikegu.com/)
+- 搜云库团队（JAVA）：[https://tech.souyunku.com/](https://tech.souyunku.com/)
 
-## MOOC
+### MOOC
 
-- Coursera：[https://www.coursera.org/](https://www.coursera.org/)
+- **Coursera**：[https://www.coursera.org/](https://www.coursera.org/)
 
 - 中国大学MOOC：[https://www.icourse163.org/](https://www.icourse163.org/)
 
-## PDF
+### PDF
 
-- 鸠摩搜书：[https://www.jiumodiary.com/](https://www.jiumodiary.com/)
+- **鸠摩搜书**：[https://www.jiumodiary.com/](https://www.jiumodiary.com/)
 
 - Forfrigg：[http://cache9.pinboard.in/williamwoo/321bfa6009b27416727f/#gsc.tab=0](http://cache9.pinboard.in/williamwoo/321bfa6009b27416727f/#gsc.tab=0)
 
 - 书伴图书：[https://bookfere.com/search](https://bookfere.com/search)
 
-## Google
+### Google
 
 - Google Design：[https://design.google/](https://design.google/)
+- Google Developer：[https://developers.google.cn/
 
-- Google Developer：[https://developers.google.cn/](https://developers.google.cn/)
-
-## Front-end
+### Front-end
 
 - 导航页：
   - F2EX-前端导航页：[http://hao.f2ex.cn/](http://hao.f2ex.cn/)
