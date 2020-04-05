@@ -65,8 +65,9 @@
 
 ## Skills websites
 
-- SQL: [https://sqlbolt.com/](https://sqlbolt.com/)
-- Regex: [https://regexone.com/](https://regexone.com/)
+- SQL: [SQLBolt](https://sqlbolt.com/)
+- Regex: [RegexOne](https://regexone.com/)
+- Git: [Learn Git Branching](https://learngitbranching.js.org/)
 
 ## Comprehensive website
 
