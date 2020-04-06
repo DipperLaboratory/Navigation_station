@@ -2,6 +2,10 @@
 >
 > 学好了基础，学一些上层应用的话效率会提升很多
 
+==**在开始学习具体的知识之前，请务必阅读完这个 Repository 的 README 文件**==
+
+- [How-To-Ask-Questions-The-Smart-Way](https://github.com/tvvocold/How-To-Ask-Questions-The-Smart-Way#原文how-to-ask-questions-the-smart-way)
+
 ## Recommended Textbooks
 
 ### Basic knowledge
