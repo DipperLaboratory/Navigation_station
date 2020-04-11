@@ -13,6 +13,7 @@
 - 《数据结构与算法: C语言描述》
 - 《Operating System: Three Easy Pieces》
 - 《CSAPP》
+- 《编码：隐匿在计算机软硬件背后的语言》
 - 《计算机组成与设计硬件：软件接口》
 - 《计算机网络 -- 自顶向下方法》
 - 《数据库系统概念》
@@ -91,9 +92,8 @@
 ### PDF
 
 - [**鸠摩搜书**](https://www.jiumodiary.com/)
-
+- [$Labrary Genesis^{2M}$](http://gen.lib.rus.ec/)
 - [Forfrigg](http://cache9.pinboard.in/williamwoo/321bfa6009b27416727f/#gsc.tab=0)
-
 - [书伴图书](https://bookfere.com/search)
 
 ### Google
