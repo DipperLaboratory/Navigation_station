@@ -10,7 +10,7 @@
 
 ### Basic knowledge
 
-![渴望力量](E:\Document\MarkdownNote\Pic\bpEvj)
+![](https://image.dbbqb.com/202005102258/8c9f29a9ef2757236eab2af066420c5d/bpEvj)
 
 - 《数据结构与算法: C语言描述》
 - 《Operating System: Three Easy Pieces》 => 《操作系统导论》
