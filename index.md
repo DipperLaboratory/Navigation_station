@@ -10,8 +10,10 @@
 
 ### Basic knowledge
 
+![渴望力量](E:\Document\MarkdownNote\Pic\bpEvj)
+
 - 《数据结构与算法: C语言描述》
-- 《Operating System: Three Easy Pieces》
+- 《Operating System: Three Easy Pieces》 => 《操作系统导论》
 - 《CSAPP》
 - 《编码：隐匿在计算机软硬件背后的语言》
 - 《计算机组成与设计硬件：软件接口》
@@ -33,9 +35,11 @@
 - 自学网站：
   - [How2J](https://how2j.cn/)
 - 推荐书目：
-  - 《Java 编程思想》
+  - 《Java 编程思想》（JDK 1.5）---->《[On Java 8](https://lingcoder.github.io/OnJava8)》（JDK 1.8）
   - 《深入了解 Java 虚拟机》
   - 《 Effective Java 》
+  - 《Java 并发编程实战》
+  - 《Java 网络编程》
 
 #### C
 
@@ -65,7 +69,7 @@
   - PostgreSQL
 - NoSQL
   - Redis
-    - 《Redis 设计与实现》
+    - 《Redis 使用指南》
   - MongoDB
 
 ## Skills websites
@@ -92,7 +96,7 @@
 ### PDF
 
 - [**鸠摩搜书**](https://www.jiumodiary.com/)
-- [$Labrary Genesis^{2M}$](http://gen.lib.rus.ec/)
+- [Labrary Genesis](http://gen.lib.rus.ec/)
 - [Forfrigg](http://cache9.pinboard.in/williamwoo/321bfa6009b27416727f/#gsc.tab=0)
 - [书伴图书](https://bookfere.com/search)
 
