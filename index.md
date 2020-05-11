@@ -10,7 +10,7 @@
 
 ### Basic knowledge
 
-![渴望力量](E:\Document\MarkdownNote\Pic\bpEvj)
+![秃头却更强这样我的你爱了🐎](https://cdn.blog.buckbit.top/img/渴望力量.png)
 
 - 《数据结构与算法: C语言描述》
 - 《Operating System: Three Easy Pieces》 => 《操作系统导论》
