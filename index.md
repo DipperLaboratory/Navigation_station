@@ -58,8 +58,8 @@
   - [VisuAlgo - 数据结构和和算法可视化](https://visualgo.net/zh)
 - **Tutorial Vedio**
   - [算法基础课 - ACWING](https://jgsueducn-my.sharepoint.com/:f:/g/personal/1809103029_jgsu_edu_cn/ErNEtiO7qXBLrJ7ui3d1SMUBwRaMe0yfHL3pS4fLTdnV_Q?e=S26Y4m)
-  - [算法提高课 - ACWING]()
-  - [LeetCode 究极班]()
+  - [算法提高课 - ACWING](https://jgsueducn-my.sharepoint.com/:f:/g/personal/1809103029_jgsu_edu_cn/EtPPa6vnd2FNhdKegZhEEKcBVoQ5vQ_tI4Q_v5b3iPjCIA?e=QfrE1E)
+  - [LeetCode 究极班](https://jgsueducn-my.sharepoint.com/:f:/g/personal/1809103029_jgsu_edu_cn/Er8zQ4M0xDpIgLLv5wi_f9cBsTjtF8c_KFT7LSSNxraeSQ?e=5839Zx)
 
 ### Database
 
