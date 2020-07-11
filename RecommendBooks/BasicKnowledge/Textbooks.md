@@ -47,5 +47,16 @@
 
 ## 数据库
 
-- 《数据库系统概念》
+- 理论知识
+  - 《数据库系统概念》
+- 实践
+  - Relational database
+    - MySQL
+      - 《必知必会 MySQL》
+      - 《高性能 MySQL》
+    - PostgreSQL
+  - NoSQL
+    - Redis
+      - 《Redis 使用指南》
+    - MongoDB
 
